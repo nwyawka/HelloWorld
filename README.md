@@ -1,6 +1,6 @@
 # HelloWorld
 
-##This is my first edit
+This is my first edit
 
 - Creating a branch
 - Work on the branch
